@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://118.26.142.212:5223/zhjt_fszl/ZhongHai_fszl.ipa</string>
+					<string>http://221.123.179.85:80/zhjt_fszl/ZhongHai_fszl.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://118.26.142.212:5223/zhjt_fszl/2.png</string>
+					<string>http://221.123.179.85:80/zhjt_fszl/2.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://118.26.142.212:5223/zhjt_fszl/2.png</string>
+					<string>http://221.123.179.85:80/zhjt_fszl/2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
